@@ -1,2 +1,2 @@
 # IMT-FELIPE-LOPEZ
-Repositorio personal para Ciencias de Datos
+Repositorio personal para Ciencias de Datos de Felipe Andrés López Espinoza
