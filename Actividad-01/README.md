@@ -1,0 +1,3 @@
+# imt2200_actividad1
+
+Pude hacer bien la actividad, hice unos cambios como el color del mapa cambiandolo a un degradado de  naranja para la menor cantidad de poblacion y azul para la mayor, cambie las xxx que me pedian y por ultimo cambié un poco las coordenadas del mapa, siento que queda mejor ya que lo hice un poco más pequeño centrandome en santiago centro, simplemente eso. Para el degradado de color busqué como hacerlo en matplotlib ya que lo agregaban en la importación pero no se usaba, asi que le di uso.
